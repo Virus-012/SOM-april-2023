@@ -1,0 +1,40 @@
+.section-8 h1 {
+    color:  #ffffff;
+    font-weight: 600 ;
+}
+
+.section-8 table tr td {
+    color: black;
+    padding:5px;
+    line-height: 40px;
+    width: 400px;    
+}
+
+
+.section-8 table{
+    font-size: 20px;
+    
+}
+
+.section-8 table thead tr td{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.btn-1 {
+    background-color: #73eda8;
+    border: 0;
+    border-radius: 15px;
+    height: 70px;
+    width: 400px;
+    font-size: 25px;
+    color: rgb(4, 2, 0);
+}
+.btn-1:hover {
+    color: rgb(240, 250, 240);
+}
+
+.section-8 table tr td:hover {
+    color: rgb(255, 255, 255);
+}
